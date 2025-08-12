@@ -1,2 +1,1 @@
-
-<h1>🌐 Web → App AI</h1>
+<h1>🚀 Appify: Turn Websites into Apps</h1>
